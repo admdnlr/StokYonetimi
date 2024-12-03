@@ -1,0 +1,17 @@
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\BL.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\BL.dll
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\BL.pdb
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\DAL.dll
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\Entities.dll
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\EntityFramework.dll
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\DAL.pdb
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\DAL.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\Entities.pdb
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\EntityFramework.xml
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\obj\Debug\BL.dll
+C:\Users\emrec\OneDrive\Masaüstü\UrunYonetimiStokTakip-master\BL\obj\Debug\BL.pdb
